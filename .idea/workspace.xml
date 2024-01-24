@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4fdbe5ad-e0b4-40ac-9fc7-f96205ad8aee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/springboot/config/GetEsClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/springboot/config/HttpClientConfigImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/springboot/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/springboot/App.java" afterDir="false" />
-    </list>
+    <list default="true" id="4fdbe5ad-e0b4-40ac-9fc7-f96205ad8aee" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
